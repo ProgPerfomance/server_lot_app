@@ -1,3 +1,3 @@
-int calculate() {
-  return 6 * 7;
-}
+import 'package:mysql_client/mysql_client.dart';
+
+MySQLConnection ?sql;
